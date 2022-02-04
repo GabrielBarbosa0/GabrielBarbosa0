@@ -4,9 +4,10 @@
 - 🌱 Estudando HTML5, CSS3, JS, MySQL
 - 📫 Como me encontrar: contato.gabrielbarbosa0@gmail.com
 - 😀 Cursos que indico:
-https://digitalinnovation.one/sign-up?ref=XGF42JE00T
 
-https://www.freecodecamp.org/
+     https://digitalinnovation.one/sign-up?ref=XGF42JE00T
+
+     https://www.freecodecamp.org/
 
 <div align="center">
   <a href="https://github.com/GabrielBarbosa0">
