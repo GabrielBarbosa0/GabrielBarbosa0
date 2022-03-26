@@ -1,4 +1,4 @@
-### Olá! Eu sou o GabrielBarbosa0 👋
+### Olá! Eu sou o Gabriel Barbosa 👋
 
 - 🔭 Hoje estudo Progamação
 - 🌱 Estudando HTML5, CSS3, JS, MySQL
