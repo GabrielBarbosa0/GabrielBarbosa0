@@ -8,6 +8,8 @@
      https://digitalinnovation.one/sign-up?ref=XGF42JE00T
 
      https://www.freecodecamp.org/
+     
+     https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
 
 <div align="center">
   <a href="https://github.com/GabrielBarbosa0">
