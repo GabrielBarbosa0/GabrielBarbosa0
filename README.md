@@ -11,9 +11,8 @@
      
      https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
 
-  https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
 
-       https://www.udemy.com/course/python-3-do-zero-ao-avancado/
+  https://www.udemy.com/course/python-3-do-zero-ao-avancado/
 
 <div align="center">
   <a href="https://github.com/GabrielBarbosa0">
