@@ -1,4 +1,4 @@
-### Olá, sou o Gabriel Barbosa 👋
+### Olá, sou o Gabriel👋
 
 Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e design digital. Atualmente, estou cursando Bacharelado em Sistemas de Informação na UPE (Universidade de Pernambuco), mergulhando ainda mais fundo no vasto universo da computação.
 
