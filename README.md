@@ -1,19 +1,5 @@
 ### Olá! Eu sou o Gabriel Barbosa 👋
 
-- 🔭 Hoje estudo Progamação
-- 🌱 Estudando HTML5, CSS3, JS, MySQL
-- 📫 Como me encontrar: contato.gabrielbarbosa0@gmail.com
-- 😀 Cursos que indico:
-
-     https://digitalinnovation.one/sign-up?ref=XGF42JE00T
-
-     https://www.freecodecamp.org/
-     
-     https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/
-
-
-  https://www.udemy.com/course/python-3-do-zero-ao-avancado/
-
 <div align="center">
   <a href="https://github.com/GabrielBarbosa0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosa0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
