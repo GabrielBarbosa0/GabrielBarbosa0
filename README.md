@@ -4,6 +4,8 @@ Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e desig
 
 _"Apaixonado por tecnologia, comprometido com a excelência."_ 🚀
 
+  ##  ##
+
 <div align="left">
   <a href="https://github.com/GabrielBarbosa0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosa0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
