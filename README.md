@@ -1,4 +1,10 @@
-### Olá! Eu sou o Gabriel Barbosa 👋
+### Olá, sou o Gabriel Barbosa 👋
+
+## Sobre Mim
+
+Profissionalizado em Análise e Desenvolvimento de Sistemas, minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e design digital. Atualmente, estou cursando Bacharelado em Sistemas de Informação na UPE (Universidade de Pernambuco), mergulhando ainda mais fundo no vasto universo da computação.
+
+"Apaixonado por tecnologia, comprometido com a excelência."_ 🚀
 
 <div align="center">
   <a href="https://github.com/GabrielBarbosa0">
