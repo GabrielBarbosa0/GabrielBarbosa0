@@ -1,12 +1,10 @@
 ### Olá, sou o Gabriel Barbosa 👋
 
-## Sobre Mim
-
-Profissionalizado em Análise e Desenvolvimento de Sistemas, minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e design digital. Atualmente, estou cursando Bacharelado em Sistemas de Informação na UPE (Universidade de Pernambuco), mergulhando ainda mais fundo no vasto universo da computação.
+Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e design digital. Atualmente, estou cursando Bacharelado em Sistemas de Informação na UPE (Universidade de Pernambuco), mergulhando ainda mais fundo no vasto universo da computação.
 
 "Apaixonado por tecnologia, comprometido com a excelência."_ 🚀
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/GabrielBarbosa0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosa0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBarbosa0&layout=compact&langs_count=7&theme=dark"/>
