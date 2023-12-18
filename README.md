@@ -3,8 +3,13 @@
 Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e design digital. Atualmente, estou cursando Bacharelado em Sistemas de Informação na UPE (Universidade de Pernambuco), mergulhando ainda mais fundo no vasto universo da computação.
 
 > "Steve Jobs: tenha fome de vida, sede de descobrir"
+<br>
 
-  ##  ##
+<div align="left">
+  <a href="https://github.com/GabrielBarbosa0">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosa0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBarbosa0&layout=compact&langs_count=7&theme=dark"/>
+</div>  
 
 ### Habilidades
  
@@ -18,14 +23,6 @@ Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e desig
   <img align="center" alt="Gabriel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 <br>
-<div align="left">
-  <a href="https://github.com/GabrielBarbosa0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosa0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBarbosa0&layout=compact&langs_count=7&theme=dark"/>
-</div>  
-
-  </div>
-
 
 ##
 
