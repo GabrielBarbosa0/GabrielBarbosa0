@@ -22,7 +22,6 @@ Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e desig
   <img align="center" alt="Gabriel-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
   <img align="center" alt="Gabriel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
-<br>
 
 ##
 
