@@ -20,9 +20,7 @@ Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e desig
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-<i class="devicon-html5-plain-wordmark"></i>
-<i class="devicon-css3-plain-wordmark"></i>
-<i class="devicon-html5-plain-wordmark" ></i>
+
 
 <!--   <img align="center" alt="Gabriel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Adicionar Imagen" height="150" style="border-radius:50px;" src="Link da Imagem"> -->
