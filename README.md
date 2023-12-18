@@ -17,7 +17,7 @@ Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e desig
   <img align="center" alt="Gabriel-Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
   <img align="center" alt="Gabriel-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
-
+  ##  ##
 <div align="left">
   <a href="https://github.com/GabrielBarbosa0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosa0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
