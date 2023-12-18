@@ -25,7 +25,7 @@ Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e desig
 
 ##
 
-<div  align="center"> 
+<div  align="left"> 
   <a href="https://www.linkedin.com/in/gabriel-barbosa-41b97b222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
