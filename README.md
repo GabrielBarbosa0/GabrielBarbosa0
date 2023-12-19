@@ -13,7 +13,7 @@ Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e desig
 
 <h3  align="center">Linguagens, Framework e Ferramentas de Desenvolvimento </h3>
  
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
 <img align="center" alt="Gabriel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Gabriel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
