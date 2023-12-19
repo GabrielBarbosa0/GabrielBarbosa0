@@ -1,6 +1,5 @@
 <h2  align="left">Olá, sou o Gabriel👋</h2>
-
-Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e design digital. Atualmente, estou cursando Bacharelado em Sistemas de Informação na UPE (Universidade de Pernambuco), mergulhando ainda mais fundo no vasto universo da computação.
+<p>Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e design digital. Atualmente, estou cursando Bacharelado em Sistemas de Informação na UPE (Universidade de Pernambuco), mergulhando ainda mais fundo no vasto universo da computação.</p>
 
 > "Steve Jobs: tenha fome de vida, sede de descobrir"
 <br>
