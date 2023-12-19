@@ -11,7 +11,7 @@ Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e desig
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBarbosa0&layout=compact&langs_count=7&theme=dark"/>
 </div>  
 
-### Linguagens e Framework:
+### LINGUAGENS, FRAMEWORK E FERRAMENTAS DE DESENVOLVIMENTO:
  
 <div style="display: inline_block"><br>
 <img align="center" alt="Gabriel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
@@ -19,15 +19,11 @@ Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e desig
   <img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Gabriel-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Gabriel-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-</div>
-
-### Ferramentas de desenvolvimento:
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="Gabriel-VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+<img align="center" alt="Gabriel-VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    <img align="center" alt="Gabriel-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Gabriel-Canva" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
 </div>
+
 
 ##
 
