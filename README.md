@@ -1,5 +1,4 @@
-<div style="background-color: red;>
-  
+ 
 <h2  align="left">Olá, sou o Gabriel👋</h2>
 <p>Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e design digital. Atualmente, estou cursando Bacharelado em Sistemas de Informação na UPE (Universidade de Pernambuco), mergulhando ainda mais fundo no vasto universo da computação.</p>
 
@@ -31,4 +30,3 @@
   ![Snake animation](https://github.com/GabrielBarbosa0/GabrielBarbosa0/blob/output/github-contribution-grid-snake.svg)  
 </div>
 
-</div>
