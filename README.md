@@ -25,12 +25,6 @@ Minha paixão pela tecnologia impulsiona meu foco no desenvolvimento web e desig
 </div>
 
 
-##
-
-<div  align="left"> 
-  <a href="https://www.linkedin.com/in/gabriel-barbosa-41b97b222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
 <div  align="center">  
   
   ![Snake animation](https://github.com/GabrielBarbosa0/GabrielBarbosa0/blob/output/github-contribution-grid-snake.svg)  
