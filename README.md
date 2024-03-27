@@ -20,7 +20,7 @@
 <img align="center" alt="Gabriel-VSCode" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
    <img align="center" alt="Gabriel-Figma" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Gabriel-Canva" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-  <img align="center" alt="Gabriel-Canva" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Gabriel-Canva" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
 </div>
 <br>
 <hr>
