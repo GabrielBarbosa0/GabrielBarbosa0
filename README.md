@@ -13,7 +13,7 @@
  
 
  
-<div style="display: inline-block; text-align: center;"><br>
+<div style="display: inline-block; text-align: center; margin: 0 auto;"><br>
   <img align="center" alt="Gabriel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" style="margin: 10px 0;">
   <img align="center" alt="Gabriel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" style="margin: 10px 0;">
   <img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin: 10px 0;">
@@ -25,6 +25,7 @@
   <img align="center" alt="Gabriel-Canva" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" style="margin: 10px 0;">
   <img align="center" alt="Gabriel-Wordpress" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" style="margin: 10px 0;">
 </div>
+
 
 <br>
 <hr>
