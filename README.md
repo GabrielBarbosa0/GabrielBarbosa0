@@ -13,19 +13,19 @@
  
 
  
-<div style="display: inline_block" align="center"><br>
-<img align="center" alt="Gabriel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" style="margin-top: 10px;">
-<img align="center" alt="Gabriel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" style="margin-top: 10px;">
-<img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-top: 10px;">
-<img align="center" alt="Gabriel-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" style="margin-top: 10px;">
-<img align="center" alt="Gabriel-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" style="margin-top: 10px;">
-<img align="center" alt="Gabriel-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style="margin-top: 10px;">
-<img align="center" alt="Gabriel-VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="margin-top: 10px;">
-<img align="center" alt="Gabriel-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" style="margin-top: 10px;">
-<img align="center" alt="Gabriel-Canva" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" style="margin-top: 10px;">
-<img align="center" alt="Gabriel-Wordpress" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" style="margin-top: 10px;">
-
+<div style="display: inline-block; text-align: center;"><br>
+  <img align="center" alt="Gabriel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" style="margin: 10px 0;">
+  <img align="center" alt="Gabriel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" style="margin: 10px 0;">
+  <img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin: 10px 0;">
+  <img align="center" alt="Gabriel-Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" style="margin: 10px 0;">
+  <img align="center" alt="Gabriel-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" style="margin: 10px 0;">
+  <img align="center" alt="Gabriel-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" style="margin: 10px 0;">
+  <img align="center" alt="Gabriel-VSCode" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="margin: 10px 0;">
+  <img align="center" alt="Gabriel-Figma" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" style="margin: 10px 0;">
+  <img align="center" alt="Gabriel-Canva" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" style="margin: 10px 0;">
+  <img align="center" alt="Gabriel-Wordpress" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" style="margin: 10px 0;">
 </div>
+
 <br>
 <hr>
 <div  align="center">  
