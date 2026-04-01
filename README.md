@@ -4,8 +4,10 @@
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielBarbosa0&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielBarbosa0&layout=compact&theme=github_dark" />
+  <a href="https://github.com/GabrielBarbosa0">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GabrielBarbosa0&show_icons=true&theme=dark&v=1" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GabrielBarbosa0&layout=compact&theme=dark&v=1" />
+  </a>
 </div>
 <br>
 <h2  align="center">Linguagens, Framework e Ferramentas de Desenvolvimento </h2>
