@@ -19,6 +19,12 @@
   <img align="center" alt="Gabriel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" style="margin-top: 10px;">
   <img align="center" alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin-top: 10px;">
   <img align="center" alt="Gabriel-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" style="margin-top: 10px;">
+
+  <img align="center" alt="Gabriel-Godot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" style="margin-top: 10px;">
+  <img align="center" alt="Gabriel-Aseprite" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aseprite/aseprite-original.svg" style="margin-top: 10px;">
+  
+  <img align="center" alt="Gabriel-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="margin-top: 10px;">
+  <img align="center" alt="Gabriel-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="margin-top: 10px;">
 </div>
 
 
