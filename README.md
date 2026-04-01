@@ -5,9 +5,10 @@
 
 <div align="center">
   <a href="https://github.com/GabrielBarbosa0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosa0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBarbosa0&layout=compact&langs_count=7&theme=github_dark"/>
-</div>  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBarbosa0&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBarbosa0&layout=compact&langs_count=7&theme=github_dark&hide_border=false"/>
+  </a>
+</div>
 <br>
 <h2  align="center">Linguagens, Framework e Ferramentas de Desenvolvimento </h2>
  
