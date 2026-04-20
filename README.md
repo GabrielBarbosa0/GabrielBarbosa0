@@ -23,7 +23,7 @@
   <img alt="Gabriel-Aseprite" height="40" src="https://community.aseprite.org/uploads/default/original/2X/6/66c33251292331d29585d32632c3870651b66e01.png" style="max-width: 100%;">
   <img alt="Gabriel-Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width: 100%;">
   <img alt="Gabriel-MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width: 100%;">
-  <img alt="Gabriel-Threejs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" style="max-width: 100%;">
+  <img alt="Gabriel-Threejs" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg">
 </p>
 
 
