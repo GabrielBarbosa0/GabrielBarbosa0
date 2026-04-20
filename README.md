@@ -14,21 +14,17 @@
  
 
  
-<div align="center">
-  <table>
-    <tr>
-      <td><img alt="Gabriel-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg"></td>
-      <td><img alt="Gabriel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"></td>
-      <td><img alt="Gabriel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
-      <td><img alt="Gabriel-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg"></td>
-      <td><img alt="Gabriel-Godot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"></td>
-      <td><img alt="Gabriel-Aseprite" height="50" width="50" src="https://community.aseprite.org/uploads/default/original/2X/6/66c33251292331d29585d32632c3870651b66e01.png"></td>
-      <td><img alt="Gabriel-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></td>
-      <td><img alt="Gabriel-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></td>
-      <td><img alt="Gabriel-Threejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg"></td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img alt="Gabriel-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" style="max-width: 100%;">
+  <img alt="Gabriel-CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" style="max-width: 100%;">
+  <img alt="Gabriel-Js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
+  <img alt="Gabriel-Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" style="max-width: 100%;">
+  <img alt="Gabriel-Godot" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" style="max-width: 100%;">
+  <img alt="Gabriel-Aseprite" height="40" src="https://community.aseprite.org/uploads/default/original/2X/6/66c33251292331d29585d32632c3870651b66e01.png" style="max-width: 100%;">
+  <img alt="Gabriel-Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="max-width: 100%;">
+  <img alt="Gabriel-MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="max-width: 100%;">
+  <img alt="Gabriel-Threejs" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" style="max-width: 100%;">
+</p>
 
 
 <br>
