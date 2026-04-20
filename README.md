@@ -25,6 +25,7 @@
       <td><img alt="Gabriel-Aseprite" height="50" width="50" src="https://community.aseprite.org/uploads/default/original/2X/6/66c33251292331d29585d32632c3870651b66e01.png"></td>
       <td><img alt="Gabriel-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></td>
       <td><img alt="Gabriel-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></td>
+      <td><img alt="Gabriel-Threejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg"></td>
     </tr>
   </table>
 </div>
