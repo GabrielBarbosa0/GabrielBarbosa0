@@ -22,6 +22,7 @@
   <img alt="Gabriel-Godot" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg"> &nbsp;
   <img alt="Gabriel-Aseprite" height="40" src="https://community.aseprite.org/uploads/default/original/2X/6/66c33251292331d29585d32632c3870651b66e01.png"> &nbsp;
   <img alt="Gabriel-Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> &nbsp;
+  <img alt="Gabriel-RedHat" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg"> &nbsp;
   <img alt="Gabriel-MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> &nbsp;
   <img alt="Gabriel-Threejs" height="40" src="https://skillicons.dev/icons?i=threejs">
 </p>
