@@ -25,6 +25,8 @@
   <img alt="Gabriel-RedHat" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg"> &nbsp;
   <img alt="Gabriel-MySQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> &nbsp;
   <img alt="Gabriel-Threejs" height="40" src="https://skillicons.dev/icons?i=threejs">
+  <img alt="Gabriel-Cpp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg"> &nbsp;
+<img alt="Gabriel-Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg"> &nbsp;
 </p>
 
 
